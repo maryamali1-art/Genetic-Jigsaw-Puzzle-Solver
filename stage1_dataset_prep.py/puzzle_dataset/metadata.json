@@ -1,0 +1,64 @@
+{
+    "original_image": "photo_2026-11-14_20-34-30.jpg",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "total_pieces": 9,
+    "piece_height": 140,
+    "piece_width": 140,
+    "pieces": [
+        {
+            "id": 0,
+            "original_row": 0,
+            "original_col": 0,
+            "filename": "piece_00.png"
+        },
+        {
+            "id": 1,
+            "original_row": 0,
+            "original_col": 1,
+            "filename": "piece_01.png"
+        },
+        {
+            "id": 2,
+            "original_row": 0,
+            "original_col": 2,
+            "filename": "piece_02.png"
+        },
+        {
+            "id": 3,
+            "original_row": 1,
+            "original_col": 0,
+            "filename": "piece_03.png"
+        },
+        {
+            "id": 4,
+            "original_row": 1,
+            "original_col": 1,
+            "filename": "piece_04.png"
+        },
+        {
+            "id": 5,
+            "original_row": 1,
+            "original_col": 2,
+            "filename": "piece_05.png"
+        },
+        {
+            "id": 6,
+            "original_row": 2,
+            "original_col": 0,
+            "filename": "piece_06.png"
+        },
+        {
+            "id": 7,
+            "original_row": 2,
+            "original_col": 1,
+            "filename": "piece_07.png"
+        },
+        {
+            "id": 8,
+            "original_row": 2,
+            "original_col": 2,
+            "filename": "piece_08.png"
+        }
+    ]
+}
